@@ -12,8 +12,14 @@ nav{
 }
 
 
+
 h1{
     color: #404040; 
+}
+
+img{
+    width:20%;
+    height:70%;
 }
 
 .navBar{
@@ -79,7 +85,7 @@ a:active {
     text-align: center;
 }
 .sample{
-    width:800px;
+    width: 800px;
     height: inherit;
     margin: auto;
     text-align: justify;
